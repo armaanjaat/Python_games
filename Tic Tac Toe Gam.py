@@ -33,10 +33,7 @@ def welcome():
 
 # Play a game of tic tac toe
 def play_game():
-
-  
-
-  # Loop until the game stops (winner or tie)
+    # Loop until the game stops (winner or tie)
   while game_still_going:
         # Show the initial game board
        display_board()
